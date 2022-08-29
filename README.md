@@ -10,7 +10,7 @@ It's like just an organization which wants to make Rust more friendly for roboti
 * [k](https://github.com/openrr/k) : kinematics library
 * [ros-nalgebra](https://github.com/openrr/ros-nalgebra) : rosrust nalgebra converter generator
 * [rrt](https://github.com/openrr/rrt) : RRT-dual-connect path planner
-* [mesh-loader](https://github.com/mesh-loader): Load mesh files
+* [mesh-loader](https://github.com/openrr/mesh-loader): Load mesh files
 * [trajectory](https://github.com/openrr/trajectory) : trajectory interpolator (spline)
 * [urdf-rs](https://github.com/openrr/urdf-rs) : URDF parser
 * [urdf-viz](https://github.com/openrr/urdf-viz): URDF visualizer
